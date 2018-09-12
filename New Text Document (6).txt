@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<style>
+body{
+  font-family:"Palatino", Helvetica, sans-serif;
+  text-align:center;
+  min-width:260px;
+  color:#112;
+}
+#main{
+  margin:30px auto;
+  padding:15px;
+  border:1px solid;
+  border-radius:5px;
+  background:#eee;
+}
+img{
+  max-width: 38%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+}
+#img-div{
+  margin:-5px;
+  margin-top:20px;
+  width:100%;
+  border:2px solid yellow;
+  background:black;
+}
+#img-caption{
+  margin:15px;
+  color: white;
+}
+#headline{
+  margin-top:50px;
+  text-align:center;
+}
+ul{
+  max-width:650px;
+  margin:0 auto;
+  text-align:left;
+  background-color:#B2DFDB;
+}
+li{
+  margin: 10px;
+  font-family: Verdana;
+}
+blockquote{
+  font-style: italic;
+}
+</style>
+<div id="main">
+  <h1 id="title">ALBERT EINSTEIN</h1>
+  <div>Theoretical physicist who developed the theory of relativity</div>
+  <div id="img-div">
+    <img id="image" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg" alt "pic from wikipedia">
+    <div id="img-caption">
+      Photograph by Orren Jack Turner, Princeton, N.J. Modified with Photoshop by PM_Poon and later by Dantadd
+    </div>
+  </div>
+   <div id="tribute-info">
+     <ul>
+       <h3 id="headline">Here's a time line of the greatest physicist Albert Einstein: </h3>
+       <li><strong>1879</strong>- Born in Germany , on 14 march</li>
+       
+       <li><strong>1895</strong> - Einstein lived in Switzerland between 1895 and 1914, except for one year in Prague </li>
+       
+       <li><strong>1900</strong> - He received his academic diploma from the Swiss federal polytechnic school (later the Eidgenössische Technische Hochschule, ETH) in Zürich in 1900.</li>
+       
+       <li><strong>1902</strong> - Near the beginning of his career, Einstein thought that Newtonian mechanics was no longer enough to reconcile the laws of classical mechanics with the laws of the electromagnetic field. This led him to develop his special theory of relativity during his time at the Swiss Patent Office in Bern, Switzerland"</li>
+       
+       <li><strong>1905</strong> - he was awarded a PhD by the University of Zurich. The same year, he published four groundbreaking papers during his renowned annus mirabilis (miracle year) which brought him to the notice of the academic world at the age of 26</li>
+       
+       <li><strong>1916</strong> -  He realized that the principle of relativity could also be extended to gravitational fields, and he published a paper on general relativity in 1916 with his theory of gravitation. He continued to deal with problems of statistical mechanics and quantum theory, which led to his explanations of particle theory and the motion of molecules </li>
+       
+       <li><strong>1917</strong> - In 1917, he applied the general theory of relativity to model the structure of the universe </li>
+       <li><strong>1921</strong> - He received the 1921 Nobel Prize in Physics "for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect",[10] a pivotal step in the development of quantum theory.</li>
+       <li><strong>1933</strong> - while Einstein was visiting the United States, Adolf Hitler came to power. Because of his Jewish background, Einstein did not return to Germany.[13] He settled in the United States and became an American citizen in 1940</li>
+       
+       <li><strong>1940</strong> - On the eve of World War II, he endorsed a letter to President Franklin D. Roosevelt alerting him to the potential development of "extremely powerful bombs of a new type" and recommending that the US begin similar research. This eventually led to the Manhattan Project. Einstein supported the Allied forces, but he generally denounced the idea of using nuclear fission as a weapon. He signed the Russell–Einstein Manifesto with British philosopher Bertrand Russell, which highlighted the danger of nuclear weapons. He was affiliated with the Institute for Advanced Study in Princeton, New Jersey </li>
+       <li><strong>1955</strong> -  dies at the age of 76.</li>
+     </ul>
+     <blockquote>
+       <p> "Life is like riding a bicycle. To keep your balance you must keep moving."</p>
+       <div> -- Albert Einstein</div>
+       <h3> Read more about greatest physicist Albert einstein on <a id="tribute-link" href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Wikipedia</a></h3>
+       </div>
+  </div>
+</html>
